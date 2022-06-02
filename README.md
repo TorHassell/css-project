@@ -1,1 +1,1 @@
-# css-project
+My first project using css. :D It is a little daunting, but also pretty fun.
