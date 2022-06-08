@@ -1,16 +1,8 @@
 /* styles.css */
-div {
-    color: white;
-    background-color: red;
-    font-size: 30px;
-    font-family: Times New Roman;
+body{
+    text-indent: 20px;
 }
-p {
-    color: white;
-    background-color: green;
-    font-size: 18px;
-}
-button{
-    background-color: orange;
-    font-size: 18px;
+p{
+    background-color: hotpink;
+    font-family: verdana, sans-serif, 
 }
