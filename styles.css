@@ -5,3 +5,10 @@
     font-family: Arial, Helvetica, sans-serif;
 
 }
+.button-2{
+    background-color: yellow;
+}
+.button-1{
+    background-color: black;
+    color: white;
+}
